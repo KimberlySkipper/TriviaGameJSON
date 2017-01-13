@@ -18,7 +18,7 @@
       "autoGenGameKey": {
         "player1": "GitHubUserName",
         "player2": "GitHubUserName",
-        "game rounds": {
+        "gameRounds": {
           "autoGenKey1": {
             "question": "Completetheclassicline: That'snomoon;it'sa...",
             "correctAnswer": "Spacestation",
